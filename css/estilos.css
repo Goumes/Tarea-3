@@ -1,4 +1,4 @@
-body {
+.cards {
     font-family: Arial, sans-serif;
     margin: 20px;
     display: flex;
@@ -50,8 +50,4 @@ li{
 header{
     text-align: center;
     background-color: lightblue;
-}
-
-body{
-    background-color: lightgray;
 }
